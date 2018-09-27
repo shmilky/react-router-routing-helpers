@@ -1,6 +1,6 @@
 'use strict';
 
-import reactRouterRoutingHelpers from '../index';
+import reactRouterRoutingHelpers from '../src/reactRouterRoutingHelpers.js';
 const {parseQueryString, objToQueryParams} = reactRouterRoutingHelpers;
 
 describe('react-router-routing-helpers tests', () => {

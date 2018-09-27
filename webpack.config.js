@@ -3,10 +3,10 @@
 const path = require('path');
 
 module.exports = {
-    entry: './index.js',
+    entry: './src/reactRouterRoutingHelpers.js',
     output: {
         filename: 'index.js',
-        path: path.resolve(__dirname, './bin'),
+        path: path.resolve(__dirname, './'),
         libraryTarget: 'commonjs2'
     },
     module: {

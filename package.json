@@ -1,9 +1,9 @@
 {
   "name": "react-router-routing-helpers",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Routing helpers for easier react router usage",
-  "main": "./bin/index.js",
-  "author": "propertech",
+  "main": "./index.js",
+  "author": "shmilky",
   "license": "ISC",
   "dependencies": {
     "auto-package-publish": "1.0.4",

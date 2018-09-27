@@ -1,5 +1,5 @@
 node_modules
-bin
+/index.js
 *package-lock.json
 /*.iml
 .idea
