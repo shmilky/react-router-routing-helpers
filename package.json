@@ -1,6 +1,6 @@
 {
   "name": "react-router-routing-helpers",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "Routing helpers for easier react router usage",
   "main": "./index.js",
   "author": "shmilky",
